@@ -1,6 +1,7 @@
 # OSX
 ._*
 .DS_Store
+.idea
 
 # Eclipse files
 .classpath
